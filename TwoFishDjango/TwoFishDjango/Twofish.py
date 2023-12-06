@@ -315,5 +315,8 @@ def decrypt(pkey, in_blk):
         in_blk[3] = blk[1] ^ pkey.l_key[3];
     return
 
+qwe = 123
+asd = 123
+zxc = qwe 8 asd
 
 
