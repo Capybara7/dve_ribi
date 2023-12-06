@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TwoFishDjango", "TwoFishDjango\TwoFishDjango.pyproj", "{BF4D2959-F0BB-4A67-8D9C-58288813D2DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF4D2959-F0BB-4A67-8D9C-58288813D2DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF4D2959-F0BB-4A67-8D9C-58288813D2DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF4D2959-F0BB-4A67-8D9C-58288813D2DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF4D2959-F0BB-4A67-8D9C-58288813D2DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {307D8F44-FDF8-4819-9D17-B82CBD0BA08C}
+	EndGlobalSection
+EndGlobal
