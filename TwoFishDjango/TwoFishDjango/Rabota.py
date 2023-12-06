@@ -22,6 +22,9 @@ def bytes_to_img_not_save(data):
 def key_to_bytes(key):
     return bytes(key, 'utf-8')
 
+if 1 == 1 or 2 == 2:
+    pass
+
 #key = 'djut68bf6k2lx03m'
 #key_bytes = bytes(key, 'utf-8')
 
