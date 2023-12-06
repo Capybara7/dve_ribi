@@ -317,6 +317,6 @@ def decrypt(pkey, in_blk):
 
 qwe = 123
 asd = 123
-zxc = qwe 8 asd
+zxc = qwe + asd * qwe 
 
 
