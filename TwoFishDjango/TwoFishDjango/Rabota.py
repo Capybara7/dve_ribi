@@ -25,6 +25,9 @@ def key_to_bytes(key):
 if 1 == 1 or 2 == 2:
     pass
 
+while 1 > 0:
+    print('qwe')
+
 #key = 'djut68bf6k2lx03m'
 #key_bytes = bytes(key, 'utf-8')
 
